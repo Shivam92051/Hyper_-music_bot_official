@@ -29,7 +29,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://t.me/ALONE_WAS_BOT" alt="Made-By-Alone"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
+  <a href="https://t.me/moonlight_musicRobot" alt="Made-By-DEVELOPER_K4K4SHI"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
 
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗔𝗟𝗢𝗡𝗘+🎭">
@@ -50,7 +50,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/TeamAloneOp/AloneXMusic)
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/MOON-CODES/New-repo)
 
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
