@@ -16,9 +16,9 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","DEVELOPER_K4K4SHI")
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , "moonlight_musicRobot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "HEEN X MUSIC")
+BOT_NAME = getenv("BOT_NAME" , "MOONLIGHT X MUSIC")
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME" , "Honey_x_Assistant")
+ASSUSERNAME = getenv("ASSUSERNAME" , "MOONLIGHT_x_Assistant")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -29,7 +29,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 1000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 1922935674))
+OWNER_ID = int(getenv("OWNER_ID", ))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
