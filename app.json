@@ -1,12 +1,12 @@
 {
-    "name": "ᴀʟᴏɴᴇ ダ ᴍᴜsɪᴄ",
+    "name": "ᴍᴏᴏɴʟɪɢʜᴛ ダ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "AloneX",
+    "ᴍᴏᴏɴʟɪɢʜᴛX",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "13807651",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "a7f6628b2445ca18074a772f47492e4f",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5907277199:AAE25UVOF10IDbPxhl6nlvidric7-Na8SB0",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -34,12 +34,12 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6079943111",
+        "value": "6391774843",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @AloneXStringBot on Telegram.",
-        "value": "",
+        "value": "BQDSsCMAhg7za39cwtTx0IeP-mxiLOZ6VgLuTpuqndMU36sNgulQ6CWBvMTc2uyyPkgrzm4uR2LbbUV7m985GqMsRsLFv3UEecw3KCKB_3X9A5QCcC31PlITLyKDLV6cNEdcKyBMCgMqg_U4TQ0B4tEvpTxqmiBTgFyhcUwOPRWcCgEfonxIzvltmuRSiotsGB_VJf-tlNQpBTOWzSSjvPpv4qdHHuIjRmQdDXKjvI-MkCQANvnywEaUvNx4k4PnEjeVcHBIthWeON15AatuXa7fx8kG5_9WfbB1LXINGuxhwErrQrpAQTdAwLGKRdkCprZGipUDcoxgTbBM3D0PdbfO5iUPOwAAAAF7DNCfAA",
         "required": true
       },
       "HEROKU_API_KEY": {
